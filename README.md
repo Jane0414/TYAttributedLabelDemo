@@ -1,2 +1,2 @@
 # TYAttributedLabelDemo 
-下载后改动了，可以直接运行
+下载后可以直接运行
